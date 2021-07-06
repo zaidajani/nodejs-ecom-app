@@ -27,3 +27,34 @@
 17. nodemailer
 18. passport
 19. passport-local
+
+### To add products, interact with the `api` and do same to become a moderator. 
+
+Note: You should have Node.js and MongoDb installed in your system.
+
+### Project Startup
+
+Open terminal, clone this project and execute the following.
+
+```sh
+$ npm install
+
+$ npm run dev
+```
+
+This will start your development server.
+
+Dont forget to start mongodb:
+
+#### Windows
+
+```sh
+PS C:/User/Documents/Development> mongod
+```
+#### Mac and other unix based
+
+```sh
+$ sudo mongod
+```
+
+### Enjoy your powerfull application.
